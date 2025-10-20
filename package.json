@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "k-manager",
-=======
-  "name": "ascend-app",
->>>>>>> 0d77450f0635cd90c623b90fd1cc6d2a0faae1d2
   "private": true,
   "version": "0.0.1",
   "type": "module",
