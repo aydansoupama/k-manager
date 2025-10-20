@@ -1,14 +1,8 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-<<<<<<< HEAD
   "productName": "k-manager",
   "version": "0.0.1",
   "identifier": "fr.leyvei.k-manager",
-=======
-  "productName": "ascend-app",
-  "version": "0.1.0",
-  "identifier": "fr.ascend.app",
->>>>>>> 0d77450f0635cd90c623b90fd1cc6d2a0faae1d2
   "build": {
     "beforeDevCommand": "bun dev",
     "devUrl": "http://localhost:3000",
@@ -18,11 +12,7 @@
   "app": {
     "windows": [
       {
-<<<<<<< HEAD
         "title": "K-Manager",
-=======
-        "title": "Ascend",
->>>>>>> 0d77450f0635cd90c623b90fd1cc6d2a0faae1d2
         "width": 800,
         "height": 600,
         "resizable": true,
